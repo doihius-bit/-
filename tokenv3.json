@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "ERC-20 token with metaURI icon...",
+  "image": "https://raw.githubusercontent.com/doihius-bit/-/main/usdt-logo.png",
+  "decimals": 18
+}
